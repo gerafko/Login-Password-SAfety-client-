@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<StoredData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Admin>
+    <Name>admin</Name>
+    <Password>2</Password>
+  </Admin>
+  <Users>
+    <UserInfo>
+      <Name>gompka pak</Name>
+      <Blocked>false</Blocked>
+      <PasswordRestriction>false</PasswordRestriction>
+    </UserInfo>
+    <UserInfo>
+      <Name>makka</Name>
+      <Blocked>false</Blocked>
+      <PasswordRestriction>false</PasswordRestriction>
+    </UserInfo>
+  </Users>
+</StoredData>

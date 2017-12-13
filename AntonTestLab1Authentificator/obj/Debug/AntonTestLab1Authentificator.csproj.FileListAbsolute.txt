@@ -1,0 +1,16 @@
+c:\users\andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\bin\Debug\AntonTestLab1Authentificator.exe.config
+c:\users\andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\bin\Debug\AntonTestLab1Authentificator.exe
+c:\users\andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\bin\Debug\AntonTestLab1Authentificator.pdb
+c:\users\andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.exe
+c:\users\andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.pdb
+c:\users\andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.LoginForm.resources
+c:\users\andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.UserListForm.resources
+C:\Users\Andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.MainForm.resources
+C:\Users\Andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.ChangePasswordForm.resources
+C:\Users\Andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.CheckPasswordForm.resources
+C:\Users\Andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.AddUserForm.resources
+C:\Users\Andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.UserListAsOneTableForm.resources
+C:\Users\Andrey\documents\visual studio 2012\Projects\AntonTestLab1Authentificator\AntonTestLab1Authentificator\obj\Debug\AntonTestLab1Authentificator.AboutForm.resources
